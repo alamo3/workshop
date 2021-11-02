@@ -5,4 +5,4 @@ Test change
 Test change 6
 New line
 
-Hello
+Test merge conflict
