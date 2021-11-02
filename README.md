@@ -2,4 +2,4 @@
 Example repository for McMaster GDSC Git &amp; Github workshop.
 
 Test change
-Test change 2
+Test change 3
