@@ -5,4 +5,4 @@ Test change
 Test change 6
 New line
 
-Test merge conflict no auto merge
+Test merge conflict no auto merge 2
